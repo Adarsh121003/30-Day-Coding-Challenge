@@ -1,0 +1,1 @@
+{"name":"Local: Question-1","url":"d:\\IS\\Thirty Day  Coding Challenge\\Day 1\\Question-1.cpp","tests":[{"id":1693571710479,"input":"0 1 2 3 4 5","output":"5 4 3 2 1 0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\IS\\Thirty Day  Coding Challenge\\Day 1\\Question-1.cpp","group":"local","local":true}
