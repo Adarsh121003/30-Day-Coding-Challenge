@@ -1,3 +1,4 @@
+// Find the maximum in an array
 #include <iostream>
 #include <algorithm> 
 

@@ -1,3 +1,4 @@
+// Find the key
 #include <iostream>
 
 int findKey(int key, int arr[], int arrSize) {
