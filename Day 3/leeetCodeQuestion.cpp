@@ -34,6 +34,8 @@
 // Can you do it without using any built-in function (i.e., like __builtin_popcount in C++)?
 
 // =============================Solution========================================
+#include <iostream>
+using namespace std;
 class Solution {
 public:
     vector<int> countBits(int n) {
