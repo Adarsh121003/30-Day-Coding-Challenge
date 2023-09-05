@@ -1,4 +1,5 @@
 // Key occurance
+// Day 5 Solution
 #include <iostream>
 
 int findFirstOccurrence(int arr[], int size, int key) {
