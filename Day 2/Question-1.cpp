@@ -1,6 +1,7 @@
 // Find the maximum in an array
 #include <iostream>
 #include <algorithm> 
+// Test for the changes in github and linux mint connection
 
 int main() {
     const int arrSize = 6; 
